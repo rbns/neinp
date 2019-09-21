@@ -1,16 +1,13 @@
 # neinp
-[![GoDoc](https://godoc.org/github.com/rbns/neinp?status.svg)](https://godoc.org/github.com/rbns/neinp)
 
-## about
 neinp is a toolkit to implement 9p servers.
 
-## installation
+## this moved
 
-	go get github.com/rbns/neinp
+this project now lives at sourcehut [git.sr.ht/~rbn/neinp](git.sr.ht/~rbn/neinp)
+to prevent further inconvenience, please use the custom import path "go.rbn.im/neinp":
 
-## usage
-a example of how to use this can be found here: https://github.com/rbns/rssfs
+	import go.rbn.im/neinp
 
-furthermore, the documentation of this package should cover most things. additional information
-about the 9p protocol can be found in the plan9 manual (should be available online at [cat-v.org](http://man.cat-v.org/plan_9/5/) for example).
+the old master branch in this remote will remain intact.
 
